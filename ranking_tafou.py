@@ -1,5 +1,5 @@
 #created for tafouML twitter.com/tafousignals
-#Based on Bulkowski Encyclopedia of Candlestick Charts
+#Based on Bulkowski Encyclopedia of Candlestick Charts visit for more information https://thepatternsite.com/
 #not include in book 'CDLCOUNTERATTACK' 'CDLKICKINGBYLENGTH' 'CDLLONGLINE' 'CDLSHORTLINE' 'CDLSTALLEDPATTERN' 'CDLHIKKAKEMOD'
 
 CDL_rankings={
